@@ -268,3 +268,22 @@ ul li{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.contact h2{
+    color: white;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.contact button{
+    width:200px;
+	height:40px;
+	background-color: #FFFFFF;
+	border:none;
+	outline:none;
+	font-size:14px;
+	font-weight:bold;
+    cursor: pointer;
+}
+
+
