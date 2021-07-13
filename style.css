@@ -253,3 +253,18 @@ ul li{
     background-repeat: no-repeat;
 	background-size: cover;
 }
+
+
+/* contact section style starts here */
+
+.contact{
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('./image/contact_background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
